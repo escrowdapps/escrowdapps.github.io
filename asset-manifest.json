@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b940cf48.css",
+    "main.css": "/static/css/main.b9547dca.css",
     "main.js": "/static/js/main.6a80d293.js",
     "static/js/787.3b667ceb.chunk.js": "/static/js/787.3b667ceb.chunk.js",
+    "static/media/fon.webp": "/static/media/fon.3328602febeeb74b0de0.webp",
+    "static/media/Romie-Regular.woff": "/static/media/Romie-Regular.1918eb693dd2ca20cc2c.woff",
+    "static/media/cardinalclassiclongweb-regular-TRIAL.woff": "/static/media/cardinalclassiclongweb-regular-TRIAL.d3122e854863c3cc2f8d.woff",
+    "static/media/RomieLigatures-Regular.woff2": "/static/media/RomieLigatures-Regular.321051bc06a5ba27874b.woff2",
     "index.html": "/index.html",
-    "main.b940cf48.css.map": "/static/css/main.b940cf48.css.map",
+    "main.b9547dca.css.map": "/static/css/main.b9547dca.css.map",
     "main.6a80d293.js.map": "/static/js/main.6a80d293.js.map",
     "787.3b667ceb.chunk.js.map": "/static/js/787.3b667ceb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b940cf48.css",
+    "static/css/main.b9547dca.css",
     "static/js/main.6a80d293.js"
   ]
 }
