@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b9547dca.css",
-    "main.js": "/static/js/main.6a80d293.js",
+    "main.js": "/static/js/main.66369b2c.js",
     "static/js/787.3b667ceb.chunk.js": "/static/js/787.3b667ceb.chunk.js",
     "static/media/fon.webp": "/static/media/fon.3328602febeeb74b0de0.webp",
     "static/media/Romie-Regular.woff": "/static/media/Romie-Regular.1918eb693dd2ca20cc2c.woff",
@@ -9,11 +9,11 @@
     "static/media/RomieLigatures-Regular.woff2": "/static/media/RomieLigatures-Regular.321051bc06a5ba27874b.woff2",
     "index.html": "/index.html",
     "main.b9547dca.css.map": "/static/css/main.b9547dca.css.map",
-    "main.6a80d293.js.map": "/static/js/main.6a80d293.js.map",
+    "main.66369b2c.js.map": "/static/js/main.66369b2c.js.map",
     "787.3b667ceb.chunk.js.map": "/static/js/787.3b667ceb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9547dca.css",
-    "static/js/main.6a80d293.js"
+    "static/js/main.66369b2c.js"
   ]
 }
